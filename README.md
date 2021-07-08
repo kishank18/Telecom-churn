@@ -63,3 +63,9 @@ The ‘churn’ phase: In this phase, the customer is said to have churned. You 
  
 
 In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
+
+Build models to predict churn. The predictive model that you’re going to build will serve two purposes:
+
+It will be used to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
+
+It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
